@@ -1,4 +1,4 @@
-[Cryptography Lab (Secret Key Encryption).docx.pdf](https://github.com/user-attachments/files/16431063/Cryptography.Lab.Secret.Key.Encryption.docx.pdf)<h1>Cryptography Secret-Key Encryption Lab</h1>
+<h1>Cryptography Secret-Key Encryption Lab</h1>
 
 <h2>Description</h2>
 The Cryptography Lab (Secret Key Encryption) was conducted in VM VirtualBox utilizing the command terminal with bash scripting. 
