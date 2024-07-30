@@ -1,58 +1,33 @@
-<h1>Cryptography Secret-Key Encryption Lab</h1>
+[Cryptography Lab (Secret Key Encryption).docx.pdf](https://github.com/user-attachments/files/16431063/Cryptography.Lab.Secret.Key.Encryption.docx.pdf)<h1>Cryptography Secret-Key Encryption Lab</h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+The Cryptography Lab (Secret Key Encryption) was conducted in VM VirtualBox utilizing the command terminal with bash scripting. 
+
+<h2>Download PDF File</h2>
+
+[Cryptography Lab (Secret Key Encryption).pdf](https://github.com/user-attachments/files/16432024/Cryptography.Lab.Secret.Key.Encryption.pdf)
+
+<h2>Types of Mode(s)</h2>
+● Electronic Code Book = ecb
+<br /> ● Cipher Block Chaining = cbc
+<br /> ● Cipher Feedback = cfb
+<br /> ● Output Feedback = ofb
 <br />
 
+<h2>Types of Algorithm(s)</h2>
+● Advanced Encryption Standard = aes
+<br /> ● Data Encryption Standard = des (Designed to encrypt / decrypt utilizing 8-byte blocks and 64-bit key)
+<br /> ● Blowfish = bf (Utilizes variable size key and is a block cipher which operates with 64-bit of data)
+<br />
 
-
-
-<h2>Languages and Utilities Used</h2>
-
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
-
-<h2>Program walk-through:</h2>
-
+<h2>Summary</h2>
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+![Cryptography Lab (Secret Key Encryption) 1 ](https://github.com/user-attachments/assets/51029915-22ff-4d67-9140-490499fa8a6a)
+![Cryptography Lab (Secret Key Encryption) 2](https://github.com/user-attachments/assets/044ee9e6-35a5-4d6e-a223-00fe93d0a8ea)
+![Cryptography Lab (Secret Key Encryption) 3](https://github.com/user-attachments/assets/df1a53ac-6648-4d2b-bc3d-2c30a346a892)
+![Cryptography Lab (Secret Key Encryption) 4](https://github.com/user-attachments/assets/0b7e4b0c-6d75-48f1-8b3c-a1f35d1730ae)
+![Cryptography Lab (Secret Key Encryption) 5](https://github.com/user-attachments/assets/dca98c6c-206e-4d13-a79d-c0579bf6b31c)
+![Cryptography Lab (Secret Key Encryption) 6](https://github.com/user-attachments/assets/c437f4f6-b86d-48ef-9bde-4deef23aa8bb)
+![Cryptography Lab (Secret Key Encryption) 7](https://github.com/user-attachments/assets/aba683d6-ce6e-433c-9d56-c02b83cef9bb)
+![Cryptography Lab (Secret Key Encryption) 8](https://github.com/user-attachments/assets/f6257895-8307-4412-abc6-0b05f894a9c9)
